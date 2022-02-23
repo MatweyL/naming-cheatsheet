@@ -22,7 +22,7 @@
 ---
 
 Naming things is hard. This sheet attempts to make it easier.
-
+This sheet will help you to know how correct name variables and functions.
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
 ## English language
