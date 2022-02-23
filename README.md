@@ -1,8 +1,8 @@
-<section align="center">
+<div align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
-    <img src="./naming-cheatsheet.png" alt="Naming cheatsheet logo" />
+    <img src="./naming-cheatsheet.png" alt="main naming-cheatsheet logo - pink brackets" />
   </a>
-</section>
+</div>
 
 # Naming cheatsheet
 
@@ -32,11 +32,11 @@ Use English language when naming your variables and functions.
 ```js
 /* Bad */
 const primerNombre = 'Gustavo'
-const amigos = ['Kate', 'John', 'Ann', 'John']
+const amigos = ['Kate', 'John', 'Ann', 'Bill']
 
 /* Good */
 const firstName = 'Gustavo'
-const friends = ['Kate', 'John', 'Ann', 'John']
+const friends = ['Kate', 'John', 'Ann', 'Bill']
 ```
 
 > Like it or not, English is the dominant language in programming: the syntax of all programming languages is written in English, as well as countless documentations and educational materials. By writing your code in English you dramatically increase its cohesiveness.
